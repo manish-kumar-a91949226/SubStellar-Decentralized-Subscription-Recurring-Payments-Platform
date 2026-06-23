@@ -4,10 +4,10 @@
 ## Overview
 SubStellar is a decentralized subscription and recurring payments platform. It allows creators, SaaS founders, and communities to create multi-tier subscription plans and accept recurring payments in XLM via Stellar smart contracts.
 
-### Competition Details (Level 3 - Orange Belt)
-- **Live Demo:** [Insert Vercel Link Here]
+### Competition Details
+- **Live Demo:** [https://sub-stellar-decentralized-subscript.vercel.app/](https://sub-stellar-decentralized-subscript.vercel.app/)
+- **Demo Video:** [https://youtu.be/V0ZtDLqtwY0](https://youtu.be/V0ZtDLqtwY0)
 - **Contracts Deployed On:** Stellar Testnet
-- **Key Transaction Hash:** [Insert Hash Here]
 
 ## Features
 ✅ **Real-world utility:** Replaces fiat processors like Stripe with crypto equivalents.
@@ -15,6 +15,31 @@ SubStellar is a decentralized subscription and recurring payments platform. It a
 ✅ **Event Streaming:** Real-time Socket.IO notifications for payments and subs.
 ✅ **Mobile Responsive:** Modern glassmorphism UI built with TailwindCSS.
 ✅ **Creator Dashboard:** Real-time analytics, revenue tracking, and MRR charts.
+
+---
+
+## 📸 Screenshots & User Flow
+
+### 1. Landing & Home Page
+![Landing Page](assets/landing%20page.png)
+![Home Page Details](assets/home%20page%20details.png)
+
+### 2. Discover & Subscribe
+![Marketplace](assets/marketplace.png)
+![Plan Structure](assets/plan%20structure.png)
+![Freighter Sign In / Signature](assets/sign%20in%20signature.png)
+![Success Notification](assets/sucess_popUp_notifiactions.png)
+
+### 3. Managing Subscriptions
+![My Subscriptions](assets/my%20subscriptions.png)
+
+### 4. Creator Tools & Analytics
+![Creator Dashboard](assets/creator%20dashboard.png)
+![My Plans](assets/my%20plans%20section.png)
+![Revenue Analytics](assets/revenue_analytics.png)
+![Profile & Contracts](assets/profile.png)
+
+---
 
 ## Architecture
 See `docs/architecture.md` for a complete system diagram.
@@ -26,7 +51,7 @@ See `docs/architecture.md` for a complete system diagram.
 - Rust (for contracts)
 
 ### Running Locally
-1. **Clone repo:** `git clone <repo>`
+1. **Clone repo:** `git clone https://github.com/manish-kumar-a91949226/SubStellar-Decentralized-Subscription-Recurring-Payments-Platform.git`
 2. **Start Backend:**
    ```bash
    cd backend
