@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import axios from 'axios'
-import { ExternalLink, Copy, TrendingUp, RefreshCw } from 'lucide-react'
+import { ExternalLink, Copy, RefreshCw } from 'lucide-react'
 
 const EXPLORER_ACCOUNT = 'https://stellar.expert/explorer/testnet/account'
 

@@ -1,13 +1,11 @@
 import { useEffect, useState } from 'react'
 import axios from 'axios'
-import { RefreshCw, ExternalLink, Play, Pause, X } from 'lucide-react'
+import { RefreshCw, Play, Pause, X } from 'lucide-react'
 import type { Subscription } from '../types'
 
 interface SubscriptionsProps {
   pubKey: string
 }
-
-const EXPLORER_TX = 'https://stellar.expert/explorer/testnet/tx'
 
 export default function Subscriptions({ pubKey }: SubscriptionsProps) {
   const [subs, setSubs] = useState<Subscription[]>([])

@@ -1,9 +1,8 @@
 import { useEffect, useState } from 'react'
 import axios from 'axios'
-import { TrendingUp, Users, DollarSign, Layers, RefreshCw, ExternalLink } from 'lucide-react'
+import { TrendingUp, Users, DollarSign, Layers, RefreshCw } from 'lucide-react'
 import type { AnalyticsData, Subscription } from '../types'
 
-const EXPLORER_TX = 'https://stellar.expert/explorer/testnet/tx'
 
 interface DashboardProps {
   pubKey: string

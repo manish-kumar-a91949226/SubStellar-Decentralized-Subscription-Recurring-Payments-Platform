@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import axios from 'axios'
-import { Search, Filter } from 'lucide-react'
+import { Search } from 'lucide-react'
 import { signTransaction } from '@stellar/freighter-api'
 import { Asset, BASE_FEE, Networks, Operation, TransactionBuilder } from '@stellar/stellar-sdk'
 import { Horizon } from '@stellar/stellar-sdk'

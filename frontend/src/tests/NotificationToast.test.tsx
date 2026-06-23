@@ -13,7 +13,7 @@ describe('NotificationToast', () => {
     },
     {
       id: '2',
-      type: 'error' as const,
+      type: 'warning' as const,
       title: 'Error',
       message: 'Something went wrong',
       timestamp: new Date()

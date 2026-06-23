@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import { Zap, Shield, TrendingUp, Users, Globe, ArrowRight, Star, CheckCircle, Repeat, Pause } from 'lucide-react'
+import { Zap, Shield, Users, Globe, ArrowRight, Star, CheckCircle, Repeat, Pause } from 'lucide-react'
 
 const features = [
   { icon: Repeat, title: 'Recurring Payments', desc: 'Monthly & yearly subscriptions on Stellar blockchain. Set it and forget it.' },
