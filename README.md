@@ -7,7 +7,11 @@ SubStellar is a decentralized subscription and recurring payments platform. It a
 ### Competition Details
 - **Live Demo:** [https://sub-stellar-decentralized-subscript.vercel.app/](https://sub-stellar-decentralized-subscript.vercel.app/)
 - **Demo Video:** [https://youtu.be/V0ZtDLqtwY0](https://youtu.be/V0ZtDLqtwY0)
-- **Contracts Deployed On:** Stellar Testnet
+- **Key Transaction Hashes:** 
+  - [10f163b30d4e1429cfe8d16568eca01262c3304f78c7c133380c271a8b064a6a](https://stellar.expert/explorer/testnet/tx/10f163b30d4e1429cfe8d16568eca01262c3304f78c7c133380c271a8b064a6a)
+  - [f8962c851883dc783975f82f597bf4641c7ac2146071b0f1c4566df98b395589](https://stellar.expert/explorer/testnet/tx/f8962c851883dc783975f82f597bf4641c7ac2146071b0f1c4566df98b395589)
+  - [4bacccc6b27503f1d23bbdc7ffe2fb69dbc57c6cc62e0b8599898766873a1785](https://stellar.expert/explorer/testnet/tx/4bacccc6b27503f1d23bbdc7ffe2fb69dbc57c6cc62e0b8599898766873a1785)
+- **Contract Deployment Address:** `CDEMO_PLAN_CONTRACT_ADDRESS_PLACEHOLDER` *(See note below)*
 
 ## Features
 ✅ **Real-world utility:** Replaces fiat processors like Stripe with crypto equivalents.
