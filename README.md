@@ -43,6 +43,11 @@ SubStellar is a decentralized subscription and recurring payments platform. It a
 ![Revenue Analytics](assets/revenue_analytics.png)
 ![Profile & Contracts](assets/profile.png)
 
+### 5. Technical Requirements & Hackathon Validation
+![Responsive Mobile UI](assets/responsive%20UI.png)
+![CI/CD Pipeline](assets/CI_CD_pipeline.png)
+![Test Output](assets/test_output.png)
+
 ---
 
 ## Architecture
